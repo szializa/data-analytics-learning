@@ -1,16 +1,26 @@
-## Hi there 👋
+# About me
 
-<!--
-**szializa/szializa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, 
 
-Here are some ideas to get you started:
+It's Liza. I’m sharing some projects I’ve worked on as I learn to become a Data and BI Analyst.
+I’m studying SQL, Tableau, Power BI, a bit of Python, and advancing my Excel skills. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to land in a role where I can analyze data and 
+help businesses make decisions through meaningful insights, 
+as this is what interests me the most. 
+Since almost everything is data-driven nowadays, I believe it’s a great path to pursue.
+
+In my previous jobs, the tasks I enjoyed the most were exploring datasets, 
+cleaning them, and creating impactful charts and visualizations. 
+Now, I’m following my passion, and I’m excited to see where it takes me.
+
+Anyway, my long-term goal is to become a Data Scientist someday,
+so I'm revisiting statistics (since I’ve forgotten a lot since university) 
+and plan to learn about Machine Learning and AI tools in the future.
+
+I am motivated and constantly preparing myself for the future, and for my future self, 
+so I am eager to learn and continue to develop and expand my knowledge.
+
+-- szializa means hi liza in hungarian, your welcome -- 
+
+
