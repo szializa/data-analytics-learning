@@ -21,6 +21,10 @@ and plan to learn about Machine Learning and AI tools in the future.
 I am motivated and constantly preparing myself for the future, and for my future self, 
 so I am eager to learn and continue to develop and expand my knowledge.
 
+
+My Tableau Public: [Tableau](https://public.tableau.com/app/profile/eliza.adam4483/vizzes)
+My LinkedIn Profile: [LinkedIn](https://www.linkedin.com/in/eliza-adam-492955158/)
+
 -- szializa means hi liza in hungarian, your welcome -- 
 
 
