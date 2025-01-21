@@ -1,6 +1,6 @@
 ## British Airways Review
 
-It was also a guided project (from Mo Chen).
+It was also a guided project (from Mo Chen), and you can read my thoughts about the dashboard below.
 The link for the Tableau Dashboard: [Tableau/eliza.adam](https://public.tableau.com/app/profile/eliza.adam4483/viz/BritishAirwaysReviews_17358521122720/Dashboard1)
 
 Here, in this guided project we explored the reviews about the services of British Airways.
