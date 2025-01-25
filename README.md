@@ -28,4 +28,3 @@ My LinkedIn Profile: [LinkedIn](https://www.linkedin.com/in/eliza-adam-492955158
 
 -- szializa means hi liza in hungarian, your welcome -- 
 
-
